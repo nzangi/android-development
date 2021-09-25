@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1000789318053",
+    "firebase_url": "https://learning-android-23505-default-rtdb.firebaseio.com",
+    "project_id": "learning-android-23505",
+    "storage_bucket": "learning-android-23505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000789318053:android:335bed4b583bdb2dd7b04c",
+        "android_client_info": {
+          "package_name": "com.example.learningandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000789318053-g46q5pe1j2eq4tvp85ejf7dvo1s93n77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqKJ3QAUa4oqGqe3h0OGStaQpzzRZARY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000789318053-g46q5pe1j2eq4tvp85ejf7dvo1s93n77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1000789318053-g46q5pe1j2eq4tvp85ejf7dvo1s93n77.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://learning-android-23505-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1000789318053</string>
+    <string name="google_api_key" translatable="false">AIzaSyBYqKJ3QAUa4oqGqe3h0OGStaQpzzRZARY</string>
+    <string name="google_app_id" translatable="false">1:1000789318053:android:335bed4b583bdb2dd7b04c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBYqKJ3QAUa4oqGqe3h0OGStaQpzzRZARY</string>
+    <string name="google_storage_bucket" translatable="false">learning-android-23505.appspot.com</string>
+    <string name="project_id" translatable="false">learning-android-23505</string>
+</resources>
